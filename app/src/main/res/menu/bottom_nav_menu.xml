@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_sensor"
+        android:title="Sensor"
+        android:icon="@drawable/ic_sensor"/>
+
+    <item
+        android:id="@+id/navigation_chart"
+        android:title="History"
+        android:icon="@drawable/ic_stats"/>
+</menu>
